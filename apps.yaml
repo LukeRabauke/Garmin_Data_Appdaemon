@@ -1,0 +1,10 @@
+---
+hello_world:
+  module: hello
+  class: HelloWorld
+csv_processor:
+  module: garmin_data  # Filename without .py
+  class: garmin_data  # Class name inside your script
+GarminDownload:
+  module: garmin_download
+  class: GarminDownload
