@@ -9,6 +9,7 @@ This guide will help you set up Garmin Stats integration with Home Assistant usi
 - Home Assistant installed and running
 - AppDaemon installed and configured
 - Garmin account
+- Clone/Download the following Repo and add accordingly to your Home Assistan Server: https://github.com/pe-st/garmin-connect-export 
 
 ## Installation
 
